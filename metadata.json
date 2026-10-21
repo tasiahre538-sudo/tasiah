@@ -1,0 +1,6 @@
+{
+  "name": "SMARTSTEP",
+  "description": "Aplikasi monitoring langkah kaki berbasis IoT (ESP32) dan Computer Vision untuk mahasiswa Teknik Elektro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
